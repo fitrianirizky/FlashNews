@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flash News</string>
+    <string name="general">Umum</string>
+    <string name="business">Bisnis</string>
+    <string name="health">Kesehatan</string>
+    <string name="science">Sains</string>
+    <string name="sports">Olahraga</string>
+    <string name="technology">Teknologi</string>
+    <string name="entertainment">Hiburan</string>
+    <string name="breaking_news">Berita Terbaru!</string>
+    <string name="trending_news">Berita Trending!</string>
+    <string name="view_all">Lihat Semua</string>
+    <string name="artikel">Artikel</string>
+    <string name="read_full_story">Baca Selengkapnya</string>
+    <string name="no_news_found">Berita tidak ditemukan</string>
+    <string name="search">Cari...</string>
+    <string name="close">Tutup</string>
+    <string name="type_to_search">Ketik untuk mencari berita...</string>
+
+</resources>
